@@ -1,2 +1,5 @@
+target/
+*.log
+*.cache
 .env
 !.env.example
