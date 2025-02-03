@@ -1,0 +1,9 @@
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\derive_more_impl-c73c80fd9e8f98fb.dll: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\utils.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\from.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\../README.md C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\derive_more_impl-c73c80fd9e8f98fb.d: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\utils.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\from.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\../README.md C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\lib.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\utils.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\from.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\../README.md:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\derive_more-impl-1.0.0\src\../doc/from.md:

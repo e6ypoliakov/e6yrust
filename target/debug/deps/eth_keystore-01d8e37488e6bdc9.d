@@ -1,0 +1,10 @@
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\libeth_keystore-01d8e37488e6bdc9.rmeta: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\error.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\keystore.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\utils.rs
+
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\libeth_keystore-01d8e37488e6bdc9.rlib: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\error.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\keystore.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\utils.rs
+
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\eth_keystore-01d8e37488e6bdc9.d: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\error.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\keystore.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\utils.rs
+
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\lib.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\error.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\keystore.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eth-keystore-0.5.0\src\utils.rs:

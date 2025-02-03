@@ -1,0 +1,11 @@
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\libinout-66101038c9e24f0e.rmeta: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs
+
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\libinout-66101038c9e24f0e.rlib: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs
+
+C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\inout-66101038c9e24f0e.d: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs
+
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs:
+C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs:
