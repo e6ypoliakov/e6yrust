@@ -1,9 +1,0 @@
-C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\futures_macro-f3f6c2f6b4cef41f.dll: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\executor.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\join.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\select.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\stream_select.rs
-
-C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\futures_macro-f3f6c2f6b4cef41f.d: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\executor.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\join.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\select.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\stream_select.rs
-
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\lib.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\executor.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\join.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\select.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\stream_select.rs:

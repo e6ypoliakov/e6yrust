@@ -1,8 +1,0 @@
-C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\impl_trait_for_tuples-b562424c173c0084.dll: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\utils.rs
-
-C:\Users\e6y_poliakov\Desktop\Rust\project\target\debug\deps\impl_trait_for_tuples-b562424c173c0084.d: C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\lib.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\utils.rs
-
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\lib.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs:
-C:\Users\e6y_poliakov\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.3\src\utils.rs:
